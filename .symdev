@@ -1,0 +1,12 @@
+{
+  "project_id" : 585,
+  "project_name" : "py_111",
+  "language" : "PYTHON",
+  "ai_chat_id" : "1rK1DBJN0H4KAOKKLefn0VB2tIfQwftqP",
+  "symdev_account_email" : "cezeriotonom@gmail.com",
+  "llm_account_email" : "symdev.basic@gmail.com",
+  "github_repo_url" : "https://github.com/cezeriotonom/py_111.git",
+  "build_command" : null,
+  "run_command" : "py main.py",
+  "open_browser_url" : null
+}
